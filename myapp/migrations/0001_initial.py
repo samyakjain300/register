@@ -9,7 +9,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
     ]
-
+# dadsaf;wefwefweqad
     operations = [
         migrations.CreateModel(
             name='details',
